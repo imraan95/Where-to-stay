@@ -1,4 +1,5 @@
 // Main JavaScript for Where to Stay section
+// Handles interactions for the updated layout and image gallery
 
 // DOM Elements
 document.addEventListener('DOMContentLoaded', () => {

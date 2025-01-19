@@ -5,6 +5,21 @@
     box-sizing: border-box;
 }
 
+/* Logo styles */
+.logo {
+    max-width: 200px;
+    height: auto;
+    margin: 20px auto;
+    display: block;
+}
+
+/* Image styles */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 /* Color variables */
 :root {
     --primary-color: #2c3e50;
